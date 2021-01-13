@@ -1,0 +1,40 @@
+.container{
+	width: 23%;
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin-top:  3%;
+	padding: 10px 10px;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+
+}
+
+body {
+	background: url("image/login-aw.png") ;
+   -webkit-background-size: 100% 100%;
+   -moz-background-size: 100% 100%;
+   -o-background-size: 100% 100%;
+   background-size: 100% 100%;
+}
+
+h1{
+  font-size: 60px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+h2{
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.tombol_login{
+	background: #2aa7e2;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+
